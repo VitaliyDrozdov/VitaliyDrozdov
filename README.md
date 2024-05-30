@@ -2,11 +2,11 @@
 
 <h2 align="left">About me:</h2>
 
-💡 I am Python backend developer from Batumi, Georgia.
+💡 I am a Python backend developer from Batumi, Georgia.
 
 💡 In the current time I'm learning new tools for web development using Python and also interested in other technologies.
 
-💡 Creating APIs for web.
+💡 Creating APIs for web apps.
 
 <h2 align="left">Contact with me:</h2>
 
