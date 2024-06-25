@@ -8,11 +8,16 @@
 
 💡 Creating APIs for web apps.
 
+<div id="socials" align="left">
 <h2 align="left">Contact with me:</h2>
 
 ⚪ **Email:** drvetalldev@gmail.com
 
 ⚪ **Telegram:** @drvetall
+  <a href="https://t.me/drvetall">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
 
 <h2 align="left">Languages and tools:</h2>
 
@@ -33,4 +38,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
