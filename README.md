@@ -4,9 +4,8 @@
 
 💡 I am a Python developer.
 
-💡 In the current time I'm learning new tools for web development using Python and also interested in other technologies.
+💡 I work with web apps as well as data engineering tools like Apacke Airflow, Hadoop and Spark.
 
-💡 Creating APIs for web apps.
 
 <div id="socials" align="left">
 <h2 align="left">Contact with me:</h2>
