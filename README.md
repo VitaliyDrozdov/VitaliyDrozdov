@@ -5,11 +5,16 @@
 💡 I am a Python developer.
 
 💡 I work with web apps using:
+
     - Django, DRF;
+    
     - FastAPI
+    
   as well as data engineering tools like:
     -  Apache Airflow;
+    
     -  Hadoop;
+    
     -  Apache Spark.
 
 
