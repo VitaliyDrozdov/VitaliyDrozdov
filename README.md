@@ -12,11 +12,11 @@
     
   as well as data engineering tools like:
   
-    -  Apache Airflow;
+    -  Airflow;
     
     -  Hadoop;
     
-    -  Apache Spark.
+    -  Spark.
 
 
 <div id="socials" align="left">
