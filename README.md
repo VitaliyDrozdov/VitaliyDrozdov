@@ -4,16 +4,7 @@
 
 💡 I am a Python developer.
 
-💡 I work with web apps using:
-
-    - Django, DRF;
-    
-    - FastAPI
-    
-  as well as data engineering tools:
-  
-    -  Airflow; 
-    -  Spark.
+💡 I work with web apps as well as data engineering tools.
 
 
 <div id="socials" align="left">
