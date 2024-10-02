@@ -10,12 +10,9 @@
     
     - FastAPI
     
-  as well as data engineering tools like:
+  as well as data engineering tools:
   
-    -  Airflow;
-    
-    -  Hadoop;
-    
+    -  Airflow; 
     -  Spark.
 
 
