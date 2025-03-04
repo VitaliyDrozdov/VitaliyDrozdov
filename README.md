@@ -3,8 +3,11 @@
 <h2 align="left">About me:</h2>
 
 💡 I am a Python developer specializing in building efficient and scalable web applications.
+
 💡 I primarily work with FastAPI as my main framework and also have experience with Django (DRF). 
+
 💡 Additionally, I've worked as Data Engineer with tools like Airflow, Pandas, Greenplum and Hadoop to design data pipelines.
+
 💡 I'm passionate about backend development and always eager to learn new technologies.
 
 <div id="socials" align="left">
