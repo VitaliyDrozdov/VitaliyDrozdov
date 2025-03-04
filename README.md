@@ -6,7 +6,7 @@
 
 💡 I primarily work with FastAPI as my main framework and also have experience with Django (DRF). 
 
-💡 Additionally, I've worked as Data Engineer with Scala and tools like Airflow, Pandas, Greenplum and Hadoop to design data pipelines.
+💡 Additionally, I've worked as Data Engineer with Scala and tools like Airflow, Pandas, Greenplum and designed data pipelines.
 
 💡 I'm passionate about backend development and always eager to learn new technologies.
 
